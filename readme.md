@@ -29,3 +29,15 @@ enter
 4.create index.html and input.css
 5.npm run start copy this command to turminal so create output.css
 creat input.css and past -  @import "tailwindcss";
+
+
+
+github repo - readme.md - do note create 
+git add origin <link> 
+
+
+
+git branch      -->how many branch in repo
+git branch <branch name>
+ex. git branch development
+git branch
